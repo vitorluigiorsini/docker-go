@@ -14,5 +14,5 @@ App feito em Golang e empacotado usando o Dockerfile. Foi gerada uma imagem dock
 ### Comando docker para baixar a imagem e rodar o app:
 
 ```bash
-$ docker run vitororsini/fullcycle
+docker run vitororsini/fullcycle
 ```
